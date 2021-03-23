@@ -1,7 +1,1 @@
-first
-fix in outer
-three
-four
-five
-bug04
-bug005+modify in outer pc
+bug 006 is done!
